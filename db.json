@@ -2,16 +2,45 @@
   "applications": [
     {
       "jobTitle": "MERN Stack Intern",
-      "company": "Luminar",
+      "company": "Capgemini",
       "location": "Kakkanad",
-      "jobType": "internship",
-      "date": "2025-08-15",
-      "status": "bookmarked",
+      "jobType": "full-time",
+      "date": "2025-08-21",
+      "status": "applied",
       "rejectedReason": "",
       "jobLink": "https://www.instem.res.in/jobportal/",
       "resumeUsed": "resume1.pdf",
-      "notes": "rygg",
-      "id": 4
+      "notes": "",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "jobTitle": "Web developer",
+      "company": "Google",
+      "location": "Bangalore",
+      "jobType": "internship",
+      "date": "2025-08-23",
+      "status": "interview",
+      "rejectedReason": "",
+      "jobLink": "https://www.instem.res.in/jobportal/",
+      "resumeUsed": "resume1.pdf",
+      "notes": "Interview @12 pm",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "jobTitle": "Software Tester",
+      "company": "Microsoft",
+      "location": "Bangalore",
+      "jobType": "full-time",
+      "date": "2025-08-30",
+      "status": "offer",
+      "rejectedReason": "",
+      "jobLink": "https://www.instem.res.in/jobportal/",
+      "resumeUsed": "resume1.pdf",
+      "notes": "8 ctc",
+      "userId": 2,
+      "id": 3
     }
   ],
   "users": [
@@ -22,16 +51,10 @@
       "id": 1
     },
     {
-      "name": "Farsana PH",
-      "email": "ff@gmail.com",
-      "password": "123",
-      "id": 2
-    },
-    {
-      "name": "fawaz",
+      "name": "Fawaz",
       "email": "fawaz@gmail.com",
-      "password": "123",
-      "id": 3
+      "password": "1234",
+      "id": 2
     }
   ]
 }
