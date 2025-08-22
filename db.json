@@ -3,9 +3,9 @@
     {
       "jobTitle": "MERN Stack Intern",
       "company": "Capgemini",
-      "location": "Kakkanad",
+      "location": "Kochi",
       "jobType": "full-time",
-      "date": "2025-08-21",
+      "date": "2025-08-01",
       "status": "applied",
       "rejectedReason": "",
       "jobLink": "https://www.instem.res.in/jobportal/",
@@ -15,7 +15,7 @@
       "id": 1
     },
     {
-      "jobTitle": "Web developer",
+      "jobTitle": "Frontend Developer",
       "company": "Google",
       "location": "Bangalore",
       "jobType": "internship",
@@ -41,6 +41,48 @@
       "notes": "8 ctc",
       "userId": 2,
       "id": 3
+    },
+    {
+      "jobTitle": "hh",
+      "company": "Microsoft",
+      "location": "Bangalore",
+      "jobType": "full-time",
+      "date": "2025-08-01",
+      "status": "applied",
+      "rejectedReason": "",
+      "jobLink": "",
+      "resumeUsed": "",
+      "notes": "",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "jobTitle": "Software Tester",
+      "company": "Capgemini",
+      "location": "Kochi",
+      "jobType": "full-time",
+      "date": "2025-08-06",
+      "status": "applied",
+      "rejectedReason": "",
+      "jobLink": "",
+      "resumeUsed": "",
+      "notes": "",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "jobTitle": "Backend Developer",
+      "company": "EY",
+      "location": "Bangalore",
+      "jobType": "full-time",
+      "date": "2025-08-06",
+      "status": "applied",
+      "rejectedReason": "",
+      "jobLink": "",
+      "resumeUsed": "",
+      "notes": "",
+      "userId": 1,
+      "id": 6
     }
   ],
   "users": [
